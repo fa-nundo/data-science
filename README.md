@@ -1,4 +1,4 @@
-# data-science
+# Data science w/ Python
 Hi, i'm glad you're reading these lines.
 
 You will find mainly functions that help to work more efficiently, and can be useful in professionnal or private data exploration.
