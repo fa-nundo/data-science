@@ -8,6 +8,5 @@ If you see things that could be improved, if you have any ideas for new homemade
 
 Until then, good reading and see you soon!
 
-Florent
-
-Check my blog [Nundo](https://nundo.fr/)
+Florent <br>
+Blog [Nundo](https://nundo.fr/)
